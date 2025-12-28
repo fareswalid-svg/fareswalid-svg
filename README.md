@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed
+# Hi, I'm fares
 
 🎓 Artificial Intelligence Student  
 💻 Backend & Software Developer  
