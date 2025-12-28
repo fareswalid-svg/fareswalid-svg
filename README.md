@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ahmed
 
-<!--
-**fareswalid-svg/fareswalid-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student  
+💻 Backend & Software Developer  
 
-Here are some ideas to get you started:
+## Professional Summary
+Artificial Intelligence student with a solid foundation in programming, backend development, and data-related technologies.
+Experienced in Python, Java, PHP, and web development.
+Interested in Cyber Security, Networking, Linux systems, and Data Science.
+Focused on problem solving and building practical, well-structured projects using Git and GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- Java
+- PHP
+- HTML5 / CSS3
+- Backend Development
+- Git & GitHub
+- Command Line (Linux)
+
+## Cyber Security & Systems
+- Cyber Security Fundamentals
+- Networking Basics
+- Linux Operating Systems
+
+## Data & Analysis
+- Data Science Fundamentals
+- Problem Solving
+
+## Additional Skills
+- UX Fundamentals
+- Digital Marketing
+- ICDL
+
+## Contact
+📧 Email: yourmail@gmail.com  
+🌐 Portfolio: coming soon
