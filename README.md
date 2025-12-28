@@ -33,5 +33,5 @@ Focused on problem solving and building practical, well-structured projects usin
 - ICDL
 
 ## Contact
-📧 Email: yourmail@gmail.com  
+📧 Email: faresw905@gmail.com
 🌐 Portfolio: coming soon
